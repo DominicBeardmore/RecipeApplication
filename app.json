@@ -1,0 +1,16 @@
+{
+  "name": "RecipeApplication",
+  "displayName": "RecipeApplication",
+  "expo": {
+    "name": "RecipeApplication",
+    "slug": "RecipeApplication",
+    "privacy": "unlisted",
+    "version": "1.0.0",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
