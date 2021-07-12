@@ -29,6 +29,7 @@ All code for the app is inside the src folder. The MainApp.js file is the projec
 - listOfRecipes.json
   - This file contains all the recipes of the application. This acts as a mock database and a place for the app to call the recipes from.
 
+## Demo Video: https://photos.app.goo.gl/emFvoVZmVqBMTQuo9
 
 ## Links
 Expo CLI: https://docs.expo.io/get-started/installation/
