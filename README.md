@@ -31,6 +31,8 @@ All code for the app is inside the src folder. The MainApp.js file is the projec
 
 ## Demo Video: https://photos.app.goo.gl/emFvoVZmVqBMTQuo9
 ## Swagger Doc (incomplete): https://app.swaggerhub.com/apis/DominicBeardmore/RecipeApplication/
+## Adobe XD artboards: https://drive.google.com/drive/folders/1LVncTh20aWnyF1NZAqGh54IQHctJBLvq?usp=sharing
+- Screen desgins. App was fully designed before implementation
 
 ## Links
 Expo CLI: https://docs.expo.io/get-started/installation/
